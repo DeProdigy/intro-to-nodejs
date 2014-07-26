@@ -1,1 +1,1 @@
-console.log("baz");
+module.exports = 'baz';

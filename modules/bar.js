@@ -1,1 +1,1 @@
-console.log("bar");
+module.exports = 'bar';

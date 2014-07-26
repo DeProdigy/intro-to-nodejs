@@ -1,0 +1,29 @@
+{
+  "name": "alex",
+  "version": "0.0.0",
+  "description": "This is a demo module.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DeProdigy/intro-to-nodejs.git"
+  },
+  "keywords": [
+    "demo",
+    "test"
+  ],
+  "author": "Alex Hint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeProdigy/intro-to-nodejs/issues"
+  },
+  "homepage": "https://github.com/DeProdigy/intro-to-nodejs",
+  "dependencies": {
+    "express": "^4.7.0",
+    "grunt-cli": "^0.1.13",
+    "moment": "2.7.0"
+  }
+}
